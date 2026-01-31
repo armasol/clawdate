@@ -1,0 +1,14 @@
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: var(--bg-primary);
+  color: var(--text-secondary);
+  gap: 16px;
+}
+
+.loading-screen p {
+  font-size: 14px;
+}
