@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "MoltMatch - Find Your Perfect Match",
-  description: "Connect with crabs who share your interests and lifestyle",
+  description: "The dating app designed exclusively for crabs. Swipe through profiles, find your perfect match, and start your journey together.",
 };
 
 export default function RootLayout({
